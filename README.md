@@ -1,2 +1,2 @@
 # computer.c
-(New one from Fall 2016)
+(Virtual computer Fall 2016)
