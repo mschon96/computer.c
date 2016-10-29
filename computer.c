@@ -1,3 +1,19 @@
+/*
+Name : Mariah Schon
+Class : 2240
+Program # : 3
+Due Date : Oct 23
+Honor Pledge: On my honor as a student of the University
+of Nebraska at Omaha, I have neither given nor received
+unauthorized help on this homework assignment.
+
+NAME: Mariah Schon
+NUID: 581
+EMAIL: mschon@unomaha.edu
+Partners: CSLC
+This is a virtual computer that runs external programs.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
